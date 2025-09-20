@@ -10,6 +10,7 @@ const FirstComponent = () => {
             {/* Algum comentário */}
             <h1>Meu primeiro componente</h1>
             <p className = "teste">Meu texto</p>
+            <p>Testeeee</p>
             <MyComponent/>
         </div>
     )
